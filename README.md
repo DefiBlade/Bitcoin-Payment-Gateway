@@ -1,1 +1,1 @@
-# bis_payment_gateway
+# Bitcoin Payment Gateway
